@@ -29,6 +29,5 @@ This project implements LCD control logic in Verilog, demonstrating FPGA-based p
 * Connect LCD data pins to dout[7:0]
 * Connect RS and RW control signals
 * Provide system clock input
-
-Program FPGA and power on
+* Program FPGA and power on
 
